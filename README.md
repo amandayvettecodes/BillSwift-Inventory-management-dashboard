@@ -1,30 +1,31 @@
-# 🧾 Inventory Management Dashboard
+# 📦 Inventory Management Dashboard (Vanilla JS)
 
-A responsive React app that allows small businesses and teams to track and manage inventory in real-time with data stored in LocalStorage.
+A simple, responsive inventory management dashboard built with HTML, CSS, and JavaScript. Tracks stock levels, highlights low stock items, and saves data using LocalStorage.
 
 ## 🚀 Features
 
-- Add, edit, and delete items
-- Real-time stock tracking
-- Low-stock threshold alerts
-- Data persistence via LocalStorage
-- Clean Tailwind CSS UI
-- Easily extendable to use Firebase or a backend API
+- ✅ Add, delete inventory items
+- 📉 Low stock warning system
+- 💾 Data persists using browser LocalStorage
+- 🎯 No backend or libraries required
 
-## 📸 Demo
+## 🔗 Live Demo
 
-🔗 [Live Demo Here](https://your-live-demo-url.com)
+[Click here to try the app](https://yourusername.github.io/inventory-dashboard)
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
-- React
-- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 - LocalStorage
 
-## 🔧 Setup
+## 📦 How to Use
 
 ```bash
+# Clone this repository
 git clone https://github.com/yourusername/inventory-dashboard.git
 cd inventory-dashboard
-npm install
-npm start
+
+# Open in your browser
+Open index.html
