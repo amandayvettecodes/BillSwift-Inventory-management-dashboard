@@ -1,31 +1,37 @@
-# 📦 Inventory Management Dashboard (Vanilla JS)
+# 🧾 BillSwift Inventory Management Dashboard (Vanilla JS)
 
-A simple, responsive inventory management dashboard built with HTML, CSS, and JavaScript. Tracks stock levels, highlights low stock items, and saves data using LocalStorage.
+A lightweight, responsive inventory dashboard made with HTML, CSS, and JavaScript. Track inventory levels, highlight low-stock items, and store everything in LocalStorage.
 
 ## 🚀 Features
 
-- ✅ Add, delete inventory items
-- 📉 Low stock warning system
-- 💾 Data persists using browser LocalStorage
-- 🎯 No backend or libraries required
+- ✅ Add/Delete items
+- ⚠️ Low-stock alert system
+- 💾 LocalStorage persistence
+- 📱 Responsive UI
+- ⚙️ Built without any frameworks
 
 ## 🔗 Live Demo
 
-[Click here to try the app](https://yourusername.github.io/inventory-dashboard)
+[Try the app on GitHub Pages](https://yourusername.github.io/billswift-inventory)
+
+## 💼 Use Case
+
+Great for small businesses, freelancers, or as a portfolio project demonstrating core web dev skills with no frameworks.
 
 ## 🧰 Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- LocalStorage
+- Browser LocalStorage
 
-## 📦 How to Use
+## 🛠️ Setup Instructions
 
 ```bash
-# Clone this repository
-git clone https://github.com/yourusername/inventory-dashboard.git
-cd inventory-dashboard
+git clone https://github.com/yourusername/billswift-inventory.git
+cd billswift-inventory
+open index.html
+
 
 # Open in your browser
 Open index.html
